@@ -13,7 +13,7 @@ Rules:
 
 ## Installation and Launch
 
-To run this application, you need to have the EXPO app on your device. To download it, visit the App Store or Google Play. After installing EXPO, launch [this](exp://exp.host/@naidonovvano/matches_gg?release-channel=default) link on your device or scan the QR code available at [main](https://expo.dev/@naidonovvano/matches_gg) link.
+To run this application, you need to have the EXPO app on your device. To download it, visit the App Store or Google Play. After installing EXPO scan the QR code available at [main](https://expo.dev/@naidonovvano/matches_gg) link.
 
 To install __The matches game__, follow these steps:
 
