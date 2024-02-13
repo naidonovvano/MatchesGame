@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/minimatch.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "66b96b4c-10af-4121-b4ed-0dfc9ea94572"
+      }
+    },
+    "owner": "naidonovvano",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/66b96b4c-10af-4121-b4ed-0dfc9ea94572"
     }
   }
 }
